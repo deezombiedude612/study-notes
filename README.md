@@ -1,2 +1,3 @@
-# study-notes
-Study notes.
+# Study Notes
+
+Scribbles and such and what not.
