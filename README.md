@@ -2,7 +2,7 @@
 
 Scribbles and such and what not.
 
-## Linear Algebra (Georgia Tech edX, GTx)
+## MATH 1554 Linear Algebra (Georgia Tech edX, GTx)
 
 Instructor: Dr. Greg Mayer
 
