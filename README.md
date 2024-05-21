@@ -6,7 +6,7 @@ Scribbles and such and what not.
 
 Instructor: Dr. Greg Mayer
 
-| Filename         | Title                                          | Segment                                                          |
+| Filename         | Module                                         | Segment                                                          |
 | ---------------- | ---------------------------------------------- | ---------------------------------------------------------------- |
 | `gtx-la-m01.pdf` | Linear Systems & Spans                         | Linear Algebra 1: Linear Equations                               |
 | `gtx-la-m02.pdf` | Solution Sets & Linear Independence            | Linear Algebra 1: Linear Equations                               |
